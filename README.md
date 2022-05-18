@@ -1,4 +1,5 @@
 # Windows Scripts #
 
 ## Currently Working on ##
-- automated form filler
+- Automated form filler
+- Auto output file delete for g++
